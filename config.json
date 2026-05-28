@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterselete",
+        "uuid": 34488037,
+        "checksum": "k6os2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
